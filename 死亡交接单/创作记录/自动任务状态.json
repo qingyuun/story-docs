@@ -10,5 +10,11 @@
   "instruction_file": "死亡交接单/创作记录/自动续写约定.md",
   "resume_from": "读取写作计划.json的最新next_chapter，不使用固定章号",
   "stop_when": "六卷正文、结局及完结校审真实完成且已提交远程，book_status=completed；或作者要求停止",
-  "note": "此文件记录创建时配置；实际调度状态与运行结果以自动化工具查询为准。创建成功不等于后续运行已经完成。"
+  "note": "此文件记录创建时配置；实际调度状态与运行结果以自动化工具查询为准。创建成功不等于后续运行已经完成。",
+  "last_observed_enabled": true,
+  "last_observed_run_record": null,
+  "manual_run_request": {
+    "success": false,
+    "error": "立即运行接口返回 HTTP 404 Action not found；定时任务查询仍为启用，无可见运行记录"
+  }
 }
