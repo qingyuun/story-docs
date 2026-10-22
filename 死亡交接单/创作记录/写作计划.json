@@ -1,6 +1,6 @@
 {
   "book": "死亡交接单",
-  "scope": "全书六卷自动续写，第一卷已至第20章，下章第21章",
+  "scope": "全书六卷自动续写，第一卷已至第21章，下章第22章",
   "mode": "serial",
   "status": "in_progress",
   "chapters": [
@@ -148,11 +148,18 @@
       "number": 21,
       "title": "夹回去的两页",
       "file": "正文/第021章-夹回去的两页.md",
+      "status": "completed",
+      "body_hanzi": 3024
+    },
+    {
+      "number": 22,
+      "title": "划掉的工钱",
+      "file": "正文/第022章-划掉的工钱.md",
       "status": "pending",
       "body_hanzi": 0
     }
   ],
-  "next_chapter": 21,
+  "next_chapter": 22,
   "book_status": "in_progress",
   "continuation_mode": "automatic_until_complete",
   "target_body_hanzi": 600000
