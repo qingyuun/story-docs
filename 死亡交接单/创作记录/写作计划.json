@@ -15,14 +15,14 @@
       "number": 2,
       "title": "不在清单里",
       "file": "正文/第002章-不在清单里.md",
-      "status": "in_progress",
-      "body_hanzi": null
+      "status": "completed",
+      "body_hanzi": 3026
     },
     {
       "number": 3,
       "title": "只要照片",
       "file": "正文/第003章-只要照片.md",
-      "status": "pending",
+      "status": "in_progress",
       "body_hanzi": null
     }
   ]
