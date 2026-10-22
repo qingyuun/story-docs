@@ -71,8 +71,8 @@
       "number": 10,
       "title": "指路的人",
       "file": "正文/第010章-指路的人.md",
-      "status": "pending",
-      "body_hanzi": 0
+      "status": "completed",
+      "body_hanzi": 3019
     },
     {
       "number": 11,
@@ -89,7 +89,7 @@
       "body_hanzi": 0
     }
   ],
-  "next_chapter": 10,
+  "next_chapter": 11,
   "book_status": "in_progress",
   "continuation_mode": "automatic_until_complete",
   "target_body_hanzi": 600000
