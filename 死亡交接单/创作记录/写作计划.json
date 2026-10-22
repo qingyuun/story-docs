@@ -1,6 +1,6 @@
 {
   "book": "死亡交接单",
-  "scope": "全书六卷自动续写，第一卷已至第26章，下章第27章",
+  "scope": "全书六卷自动续写，第一卷已至第27章，下章第28章",
   "mode": "serial",
   "status": "in_progress",
   "chapters": [
@@ -190,11 +190,18 @@
       "number": 27,
       "title": "等在那里的人",
       "file": "正文/第027章-等在那里的人.md",
+      "status": "completed",
+      "body_hanzi": 3045
+    },
+    {
+      "number": 28,
+      "title": "照片里的两个字",
+      "file": "正文/第028章-照片里的两个字.md",
       "status": "pending",
       "body_hanzi": 0
     }
   ],
-  "next_chapter": 27,
+  "next_chapter": 28,
   "book_status": "in_progress",
   "continuation_mode": "automatic_until_complete",
   "target_body_hanzi": 600000
