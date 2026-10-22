@@ -1,8 +1,8 @@
 {
   "book": "死亡交接单",
-  "scope": "第一卷，当前批第4—6章",
+  "scope": "第一卷，第1—6章衔接修订",
   "mode": "serial",
-  "status": "batch_completed",
+  "status": "continuity_revision_completed",
   "chapters": [
     {
       "number": 1,
@@ -16,35 +16,35 @@
       "title": "不在清单里",
       "file": "正文/第002章-不在清单里.md",
       "status": "completed",
-      "body_hanzi": 3022
+      "body_hanzi": 2219
     },
     {
       "number": 3,
       "title": "只要照片",
       "file": "正文/第003章-只要照片.md",
       "status": "completed",
-      "body_hanzi": 3040
+      "body_hanzi": 3256
     },
     {
       "number": 4,
       "title": "原件在哪里",
       "file": "正文/第004章-原件在哪里.md",
       "status": "completed",
-      "body_hanzi": 3058
+      "body_hanzi": 3230
     },
     {
       "number": 5,
       "title": "十七点四十分",
       "file": "正文/第005章-十七点四十分.md",
       "status": "completed",
-      "body_hanzi": 3029
+      "body_hanzi": 3346
     },
     {
       "number": 6,
       "title": "现场干预费",
       "file": "正文/第006章-现场干预费.md",
       "status": "completed",
-      "body_hanzi": 3025
+      "body_hanzi": 3176
     }
   ],
   "next_chapter": 7
