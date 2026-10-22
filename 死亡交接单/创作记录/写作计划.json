@@ -1,8 +1,8 @@
 {
   "book": "死亡交接单",
-  "scope": "第一卷，当前批第7—9章",
+  "scope": "全书六卷自动续写，当前第一卷第10章起",
   "mode": "serial",
-  "status": "batch_completed",
+  "status": "in_progress",
   "chapters": [
     {
       "number": 1,
@@ -66,7 +66,31 @@
       "file": "正文/第009章-提前两天.md",
       "status": "completed",
       "body_hanzi": 3050
+    },
+    {
+      "number": 10,
+      "title": "指路的人",
+      "file": "正文/第010章-指路的人.md",
+      "status": "pending",
+      "body_hanzi": 0
+    },
+    {
+      "number": 11,
+      "title": "替谁留的话",
+      "file": "正文/第011章-替谁留的话.md",
+      "status": "pending",
+      "body_hanzi": 0
+    },
+    {
+      "number": 12,
+      "title": "怎么算做完",
+      "file": "正文/第012章-怎么算做完.md",
+      "status": "pending",
+      "body_hanzi": 0
     }
   ],
-  "next_chapter": 10
+  "next_chapter": 10,
+  "book_status": "in_progress",
+  "continuation_mode": "automatic_until_complete",
+  "target_body_hanzi": 600000
 }
