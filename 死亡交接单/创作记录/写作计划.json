@@ -50,8 +50,8 @@
       "number": 7,
       "title": "漏说的一句",
       "file": "正文/第007章-漏说的一句.md",
-      "status": "pending",
-      "body_hanzi": 0
+      "status": "completed",
+      "body_hanzi": 3060
     },
     {
       "number": 8,
@@ -68,5 +68,5 @@
       "body_hanzi": 0
     }
   ],
-  "next_chapter": 7
+  "next_chapter": 8
 }
