@@ -29,14 +29,14 @@
       "number": 4,
       "title": "原件在哪里",
       "file": "正文/第004章-原件在哪里.md",
-      "status": "in_progress",
-      "body_hanzi": null
+      "status": "completed",
+      "body_hanzi": 3058
     },
     {
       "number": 5,
       "title": "十七点四十分",
       "file": "正文/第005章-十七点四十分.md",
-      "status": "pending",
+      "status": "in_progress",
       "body_hanzi": null
     },
     {
