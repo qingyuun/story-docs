@@ -1,0 +1,29 @@
+{
+  "book": "死亡交接单",
+  "scope": "前三章试写",
+  "mode": "serial",
+  "status": "in_progress",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "待认领",
+      "file": "正文/第001章-待认领.md",
+      "status": "completed",
+      "body_hanzi": 3078
+    },
+    {
+      "number": 2,
+      "title": "不在清单里",
+      "file": "正文/第002章-不在清单里.md",
+      "status": "in_progress",
+      "body_hanzi": null
+    },
+    {
+      "number": 3,
+      "title": "只要照片",
+      "file": "正文/第003章-只要照片.md",
+      "status": "pending",
+      "body_hanzi": null
+    }
+  ]
+}
