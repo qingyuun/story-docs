@@ -36,14 +36,14 @@
       "number": 5,
       "title": "十七点四十分",
       "file": "正文/第005章-十七点四十分.md",
-      "status": "in_progress",
-      "body_hanzi": null
+      "status": "completed",
+      "body_hanzi": 3029
     },
     {
       "number": 6,
       "title": "现场干预费",
       "file": "正文/第006章-现场干预费.md",
-      "status": "pending",
+      "status": "in_progress",
       "body_hanzi": null
     }
   ]
