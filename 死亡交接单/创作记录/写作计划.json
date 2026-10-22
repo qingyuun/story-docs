@@ -1,6 +1,6 @@
 {
   "book": "死亡交接单",
-  "scope": "全书六卷自动续写，第一卷已至第19章，下章第20章",
+  "scope": "全书六卷自动续写，第一卷已至第20章，下章第21章",
   "mode": "serial",
   "status": "in_progress",
   "chapters": [
@@ -141,11 +141,18 @@
       "number": 20,
       "title": "未成交",
       "file": "正文/第020章-未成交.md",
+      "status": "completed",
+      "body_hanzi": 3113
+    },
+    {
+      "number": 21,
+      "title": "夹回去的两页",
+      "file": "正文/第021章-夹回去的两页.md",
       "status": "pending",
       "body_hanzi": 0
     }
   ],
-  "next_chapter": 20,
+  "next_chapter": 21,
   "book_status": "in_progress",
   "continuation_mode": "automatic_until_complete",
   "target_body_hanzi": 600000
