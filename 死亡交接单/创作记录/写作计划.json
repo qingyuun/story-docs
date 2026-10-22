@@ -2,7 +2,7 @@
   "book": "死亡交接单",
   "scope": "前三章试写",
   "mode": "serial",
-  "status": "in_progress",
+  "status": "awaiting_style_review",
   "chapters": [
     {
       "number": 1,
@@ -16,14 +16,14 @@
       "title": "不在清单里",
       "file": "正文/第002章-不在清单里.md",
       "status": "completed",
-      "body_hanzi": 3026
+      "body_hanzi": 3022
     },
     {
       "number": 3,
       "title": "只要照片",
       "file": "正文/第003章-只要照片.md",
-      "status": "in_progress",
-      "body_hanzi": null
+      "status": "completed",
+      "body_hanzi": 3040
     }
   ]
 }
