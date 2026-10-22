@@ -1,6 +1,6 @@
 {
   "book": "死亡交接单",
-  "scope": "全书六卷自动续写，第一卷已至第15章，下章第16章",
+  "scope": "全书六卷自动续写，第一卷已至第16章，下章第17章",
   "mode": "serial",
   "status": "in_progress",
   "chapters": [
@@ -113,11 +113,18 @@
       "number": 16,
       "title": "分给谁",
       "file": "正文/第016章-分给谁.md",
+      "status": "completed",
+      "body_hanzi": 3023
+    },
+    {
+      "number": 17,
+      "title": "接活以前",
+      "file": "正文/第017章-接活以前.md",
       "status": "pending",
       "body_hanzi": 0
     }
   ],
-  "next_chapter": 16,
+  "next_chapter": 17,
   "book_status": "in_progress",
   "continuation_mode": "automatic_until_complete",
   "target_body_hanzi": 600000
