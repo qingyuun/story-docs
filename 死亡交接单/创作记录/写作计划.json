@@ -2,7 +2,7 @@
   "book": "死亡交接单",
   "scope": "第一卷，当前批第4—6章",
   "mode": "serial",
-  "status": "in_progress",
+  "status": "batch_completed",
   "chapters": [
     {
       "number": 1,
@@ -43,8 +43,9 @@
       "number": 6,
       "title": "现场干预费",
       "file": "正文/第006章-现场干预费.md",
-      "status": "in_progress",
-      "body_hanzi": null
+      "status": "completed",
+      "body_hanzi": 3025
     }
-  ]
+  ],
+  "next_chapter": 7
 }
