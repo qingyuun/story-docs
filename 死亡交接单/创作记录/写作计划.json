@@ -1,6 +1,6 @@
 {
   "book": "死亡交接单",
-  "scope": "全书六卷自动续写，第一卷已至第11章，下章第12章",
+  "scope": "全书六卷自动续写，第一卷已至第12章，下章第13章",
   "mode": "serial",
   "status": "in_progress",
   "chapters": [
@@ -85,11 +85,18 @@
       "number": 12,
       "title": "怎么算做完",
       "file": "正文/第012章-怎么算做完.md",
+      "status": "completed",
+      "body_hanzi": 3012
+    },
+    {
+      "number": 13,
+      "title": "替人存的东西",
+      "file": "正文/第013章-替人存的东西.md",
       "status": "pending",
       "body_hanzi": 0
     }
   ],
-  "next_chapter": 12,
+  "next_chapter": 13,
   "book_status": "in_progress",
   "continuation_mode": "automatic_until_complete",
   "target_body_hanzi": 600000
