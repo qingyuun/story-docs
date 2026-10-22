@@ -1,6 +1,6 @@
 {
   "book": "死亡交接单",
-  "scope": "全书六卷自动续写，第一卷已至第13章，下章第14章",
+  "scope": "全书六卷自动续写，第一卷已至第14章，下章第15章",
   "mode": "serial",
   "status": "in_progress",
   "chapters": [
@@ -99,11 +99,18 @@
       "number": 14,
       "title": "取走之后",
       "file": "正文/第014章-取走之后.md",
+      "status": "completed",
+      "body_hanzi": 3022
+    },
+    {
+      "number": 15,
+      "title": "车留了一夜",
+      "file": "正文/第015章-车留了一夜.md",
       "status": "pending",
       "body_hanzi": 0
     }
   ],
-  "next_chapter": 14,
+  "next_chapter": 15,
   "book_status": "in_progress",
   "continuation_mode": "automatic_until_complete",
   "target_body_hanzi": 600000
